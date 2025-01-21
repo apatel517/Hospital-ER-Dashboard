@@ -59,3 +59,7 @@ This dashboard is designed for hospital administrators and healthcare analysts t
 - Tailor healthcare services: Use demographic insights to adjust care strategies based on the age, race, and gender distribution of patients.
 - Enhance patient experience: Monitor satisfaction scores and wait times to identify areas for improvement and ensure quality care.
 
+## Screenshots
+![Hospital ER Dashboard](images/Screenshot%202025-01-20%20194958.png)
+![Patient Metrics Dashboard](images/Screenshot%202025-01-20%20195016.png)
+
